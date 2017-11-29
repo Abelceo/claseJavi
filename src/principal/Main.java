@@ -16,8 +16,7 @@ public class Main {
 		System.out.println("el alumno es: "+ alumno1.toString());
 		System.out.println("el alumno es: "+ alumno2.toString());
 		System.out.println("el alumno es: "+ alumno3.toString());
-		
-		
+				
 		alumno3.cambiarDeCurso();
 		System.out.println("el alumno es: "+ alumno3.toString());
 		
